@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/OGEK/Desktop/NEW CHARLOTTE ASTEROIDS/Asteroids On Steroids/Assets/ASTEROIDS
+    ON STEROIDS SCENE.unity
+  isLoaded: 1
+  isActive: 1
